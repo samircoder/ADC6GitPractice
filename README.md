@@ -1,2 +1,2 @@
-# ADC6GitPractice
-Git basic
+print("samir malai tyo samircoder vanne naam mann parena")
+
